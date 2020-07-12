@@ -15,4 +15,4 @@ I am Mick Vleeshouwer, Cloud Solution Architect for Partners at Microsoft. Backg
 
 - 💬 Ask me about Conversational AI, Knowledge Mining and Pre-Built AI for Developers (Cognitive Services).
 
-- 📫 How to reach me:  Send me a message [via LinkedIn](https://www.linkedin.com/in/imick/) or via the email on my profile.
+- 📫 How to reach me:  Send me a message [via LinkedIn](https://www.linkedin.com/in/imick/) or via the emailaddress listed on my profile.
