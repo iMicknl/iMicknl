@@ -4,6 +4,7 @@ I am Mick Vleeshouwer, Cloud Solution Architect for Partners at Microsoft. Backg
 
 - 👨🏼‍💻 Current projects ...
   - [Somfy TaHoma integration](https://github.com/iMicknl/ha-tahoma) for Home Assistant
+  - [Somfy TaHoma API client](https://github.com/iMicknl/python-tahoma-api) in Python
   - [Azure Cognitive Search connector](https://github.com/iMicknl/search-ui-azure-connector) for Search UI
   - [Twilio WhatsApp adapter](https://github.com/BotBuilderCommunity/botbuilder-community-js/blob/master/libraries/botbuilder-adapter-twilio-whatsapp/README.md) for Azure Bot Framework (JS)
   
