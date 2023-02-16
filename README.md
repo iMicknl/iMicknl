@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I am Mick Vleeshouwer, Cloud Solution Architect for Partners at Microsoft. Background in software engineering, now focussing on Data & AI, looking for the connection with App Development. [Home Assistant](https://www.home-assistant.io/) and automation enthusiast. Full-time nerd.
+I am Mick Vleeshouwer, AI Cloud Solution Architect at Microsoft. Background in software engineering, now focussing on AI. [Home Assistant](https://www.home-assistant.io/) and automation enthusiast. Full-time nerd.
 
 - 👨🏼‍💻 Current projects ...
   - [Somfy TaHoma integration](https://github.com/iMicknl/ha-tahoma) for Home Assistant (Python)
